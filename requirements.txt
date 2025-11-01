@@ -1,0 +1,47 @@
+# Core
+
+numpy>=1.24.0
+
+# Limpieza y transformación de texto
+unidecode>=1.3.6
+
+# Modelado estadístico y machine learning
+scikit-learn>=1.3.0
+statsmodels>=0.14.0
+
+
+# Otras herramientas útiles
+openpyxl>=3.1.0
+xlrd>=2.0.1
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+
+
+pandas>=2.0.0
+
+uvicorn[standard]
+
+
+xgboost==3.0.5
+lightgbm==4.6.0
+
+holidays==0.82
+schedule==1.2.2
+
+xlsxwriter==3.2.9
+
+pyodbc==5.3.0
+polars==1.34.0
+fastexcel==0.16.0
+
+openai==2.6.1
+google-generativeai==0.8.5
+anthropic==0.71.0
+gradio==5.49.1
+
+
+sentence-transformers==5.1.2
+faiss-cpu==1.12.0
+redis==7.0.1
+scikit-learn==1.7.2
+pyarrow==22.0.0

@@ -1,0 +1,987 @@
+{
+  "0": {
+    "id_original": 782,
+    "nombre": "Mountain-200 Black, 38",
+    "texto_procesado": "bicicleta de montaña Mountain-200 Black, 38 color negro talla 38 estrella"
+  },
+  "1": {
+    "id_original": 783,
+    "nombre": "Mountain-200 Black, 42",
+    "texto_procesado": "bicicleta de montaña Mountain-200 Black, 42 color negro talla 42 estrella"
+  },
+  "2": {
+    "id_original": 779,
+    "nombre": "Mountain-200 Silver, 38",
+    "texto_procesado": "bicicleta de montaña Mountain-200 Silver, 38 color plateado talla 38 estrella"
+  },
+  "3": {
+    "id_original": 781,
+    "nombre": "Mountain-200 Silver, 46",
+    "texto_procesado": "bicicleta de montaña Mountain-200 Silver, 46 color plateado talla 46 estrella"
+  },
+  "4": {
+    "id_original": 784,
+    "nombre": "Mountain-200 Black, 46",
+    "texto_procesado": "bicicleta de montaña Mountain-200 Black, 46 color negro talla 46 estrella"
+  },
+  "5": {
+    "id_original": 780,
+    "nombre": "Mountain-200 Silver, 42",
+    "texto_procesado": "bicicleta de montaña Mountain-200 Silver, 42 color plateado talla 42 estrella"
+  },
+  "6": {
+    "id_original": 976,
+    "nombre": "Road-350-W Yellow, 48",
+    "texto_procesado": "bicicleta de ruta Road-350-W Yellow, 48 color amarillo talla 48 estrella"
+  },
+  "7": {
+    "id_original": 969,
+    "nombre": "Touring-1000 Blue, 60",
+    "texto_procesado": "bicicleta de turismo Touring-1000 Blue, 60 color azul talla 60 estrella"
+  },
+  "8": {
+    "id_original": 973,
+    "nombre": "Road-350-W Yellow, 40",
+    "texto_procesado": "bicicleta de ruta Road-350-W Yellow, 40 color amarillo talla 40 estrella"
+  },
+  "9": {
+    "id_original": 793,
+    "nombre": "Road-250 Black, 44",
+    "texto_procesado": "bicicleta de ruta Road-250 Black, 44 color negro talla 44 estrella"
+  },
+  "10": {
+    "id_original": 966,
+    "nombre": "Touring-1000 Blue, 46",
+    "texto_procesado": "bicicleta de turismo Touring-1000 Blue, 46 color azul talla 46 estrella"
+  },
+  "11": {
+    "id_original": 794,
+    "nombre": "Road-250 Black, 48",
+    "texto_procesado": "bicicleta de ruta Road-250 Black, 48 color negro talla 48 estrella"
+  },
+  "12": {
+    "id_original": 957,
+    "nombre": "Touring-1000 Yellow, 60",
+    "texto_procesado": "bicicleta de turismo Touring-1000 Yellow, 60 color amarillo talla 60 estrella"
+  },
+  "13": {
+    "id_original": 954,
+    "nombre": "Touring-1000 Yellow, 46",
+    "texto_procesado": "bicicleta de turismo Touring-1000 Yellow, 46 color amarillo talla 46 estrella"
+  },
+  "14": {
+    "id_original": 795,
+    "nombre": "Road-250 Black, 52",
+    "texto_procesado": "bicicleta de ruta Road-250 Black, 52 color negro talla 52 estrella"
+  },
+  "15": {
+    "id_original": 974,
+    "nombre": "Road-350-W Yellow, 42",
+    "texto_procesado": "bicicleta de ruta Road-350-W Yellow, 42 color amarillo talla 42 estrella"
+  },
+  "16": {
+    "id_original": 967,
+    "nombre": "Touring-1000 Blue, 50",
+    "texto_procesado": "bicicleta de turismo Touring-1000 Blue, 50 color azul talla 50 estrella"
+  },
+  "17": {
+    "id_original": 796,
+    "nombre": "Road-250 Black, 58",
+    "texto_procesado": "bicicleta de ruta Road-250 Black, 58 color negro talla 58 estrella"
+  },
+  "18": {
+    "id_original": 792,
+    "nombre": "Road-250 Red, 58",
+    "texto_procesado": "bicicleta de ruta Road-250 Red, 58 color rojo talla 58 estrella"
+  },
+  "19": {
+    "id_original": 955,
+    "nombre": "Touring-1000 Yellow, 50",
+    "texto_procesado": "bicicleta de turismo Touring-1000 Yellow, 50 color amarillo talla 50 estrella"
+  },
+  "20": {
+    "id_original": 801,
+    "nombre": "Road-550-W Yellow, 48",
+    "texto_procesado": "bicicleta de ruta Road-550-W Yellow, 48 color amarillo talla 48 estrella"
+  },
+  "21": {
+    "id_original": 797,
+    "nombre": "Road-550-W Yellow, 38",
+    "texto_procesado": "bicicleta de ruta Road-550-W Yellow, 38 color amarillo talla 38 estrella"
+  },
+  "22": {
+    "id_original": 972,
+    "nombre": "Touring-2000 Blue, 54",
+    "texto_procesado": "bicicleta de turismo Touring-2000 Blue, 54 color azul talla 54 estrella"
+  },
+  "23": {
+    "id_original": 798,
+    "nombre": "Road-550-W Yellow, 40",
+    "texto_procesado": "bicicleta de ruta Road-550-W Yellow, 40 color amarillo talla 40 estrella"
+  },
+  "24": {
+    "id_original": 968,
+    "nombre": "Touring-1000 Blue, 54",
+    "texto_procesado": "bicicleta de turismo Touring-1000 Blue, 54 color azul talla 54 estrella"
+  },
+  "25": {
+    "id_original": 975,
+    "nombre": "Road-350-W Yellow, 44",
+    "texto_procesado": "bicicleta de ruta Road-350-W Yellow, 44 color amarillo talla 44 estrella"
+  },
+  "26": {
+    "id_original": 799,
+    "nombre": "Road-550-W Yellow, 42",
+    "texto_procesado": "bicicleta de ruta Road-550-W Yellow, 42 color amarillo talla 42 estrella"
+  },
+  "27": {
+    "id_original": 956,
+    "nombre": "Touring-1000 Yellow, 54",
+    "texto_procesado": "bicicleta de turismo Touring-1000 Yellow, 54 color amarillo talla 54 alta_demanda_bajo_stock"
+  },
+  "28": {
+    "id_original": 953,
+    "nombre": "Touring-2000 Blue, 60",
+    "texto_procesado": "bicicleta de turismo Touring-2000 Blue, 60 color azul talla 60 estrella"
+  },
+  "29": {
+    "id_original": 998,
+    "nombre": "Road-750 Black, 48",
+    "texto_procesado": "bicicleta de ruta Road-750 Black, 48 color negro talla 48 estrella"
+  },
+  "30": {
+    "id_original": 800,
+    "nombre": "Road-550-W Yellow, 44",
+    "texto_procesado": "bicicleta de ruta Road-550-W Yellow, 44 color amarillo talla 44 estrella"
+  },
+  "31": {
+    "id_original": 748,
+    "nombre": "Hl Mountain Frame - Silver, 38",
+    "texto_procesado": "componente mountain frames Hl Mountain Frame - Silver, 38 color plateado talla 38 estrella"
+  },
+  "32": {
+    "id_original": 743,
+    "nombre": "Hl Mountain Frame - Black, 42",
+    "texto_procesado": "componente mountain frames Hl Mountain Frame - Black, 42 color negro talla 42 alta_demanda_bajo_stock"
+  },
+  "33": {
+    "id_original": 999,
+    "nombre": "Road-750 Black, 52",
+    "texto_procesado": "bicicleta de ruta Road-750 Black, 52 color negro talla 52 estrella"
+  },
+  "34": {
+    "id_original": 970,
+    "nombre": "Touring-2000 Blue, 46",
+    "texto_procesado": "bicicleta de turismo Touring-2000 Blue, 46 color azul talla 46 estrella"
+  },
+  "35": {
+    "id_original": 977,
+    "nombre": "Road-750 Black, 58",
+    "texto_procesado": "bicicleta de ruta Road-750 Black, 58 color negro talla 58 estrella"
+  },
+  "36": {
+    "id_original": 961,
+    "nombre": "Touring-3000 Yellow, 44",
+    "texto_procesado": "bicicleta de turismo Touring-3000 Yellow, 44 color amarillo talla 44 estrella"
+  },
+  "37": {
+    "id_original": 965,
+    "nombre": "Touring-3000 Yellow, 62",
+    "texto_procesado": "bicicleta de turismo Touring-3000 Yellow, 62 color amarillo talla 62 estrella"
+  },
+  "38": {
+    "id_original": 979,
+    "nombre": "Touring-3000 Blue, 50",
+    "texto_procesado": "bicicleta de turismo Touring-3000 Blue, 50 color azul talla 50 estrella"
+  },
+  "39": {
+    "id_original": 892,
+    "nombre": "Hl Touring Frame - Blue, 54",
+    "texto_procesado": "componente touring frames Hl Touring Frame - Blue, 54 color azul talla 54 alta_demanda_bajo_stock"
+  },
+  "40": {
+    "id_original": 981,
+    "nombre": "Mountain-400-W Silver, 40",
+    "texto_procesado": "bicicleta de montaña Mountain-400-W Silver, 40 color plateado talla 40 estrella"
+  },
+  "41": {
+    "id_original": 889,
+    "nombre": "Hl Touring Frame - Yellow, 54",
+    "texto_procesado": "componente touring frames Hl Touring Frame - Yellow, 54 color amarillo talla 54 alta_demanda_bajo_stock"
+  },
+  "42": {
+    "id_original": 835,
+    "nombre": "Ml Road Frame-W - Yellow, 44",
+    "texto_procesado": "componente road frames Ml Road Frame-W - Yellow, 44 color amarillo talla 44 alta_demanda_bajo_stock"
+  },
+  "43": {
+    "id_original": 962,
+    "nombre": "Touring-3000 Yellow, 50",
+    "texto_procesado": "bicicleta de turismo Touring-3000 Yellow, 50 color amarillo talla 50 estrella"
+  },
+  "44": {
+    "id_original": 997,
+    "nombre": "Road-750 Black, 44",
+    "texto_procesado": "bicicleta de ruta Road-750 Black, 44 color negro talla 44 estrella"
+  },
+  "45": {
+    "id_original": 958,
+    "nombre": "Touring-3000 Blue, 54",
+    "texto_procesado": "bicicleta de turismo Touring-3000 Blue, 54 color azul talla 54 estrella"
+  },
+  "46": {
+    "id_original": 971,
+    "nombre": "Touring-2000 Blue, 50",
+    "texto_procesado": "bicicleta de turismo Touring-2000 Blue, 50 color azul talla 50 estrella"
+  },
+  "47": {
+    "id_original": 742,
+    "nombre": "Hl Mountain Frame - Silver, 46",
+    "texto_procesado": "componente mountain frames Hl Mountain Frame - Silver, 46 color plateado talla 46 alta_demanda_bajo_stock"
+  },
+  "48": {
+    "id_original": 747,
+    "nombre": "Hl Mountain Frame - Black, 38",
+    "texto_procesado": "componente mountain frames Hl Mountain Frame - Black, 38 color negro talla 38 estrella"
+  },
+  "49": {
+    "id_original": 980,
+    "nombre": "Mountain-400-W Silver, 38",
+    "texto_procesado": "bicicleta de montaña Mountain-400-W Silver, 38 color plateado talla 38 estrella"
+  },
+  "50": {
+    "id_original": 876,
+    "nombre": "Hitch Rack - 4-Bike",
+    "texto_procesado": "accesorio bike racks Hitch Rack - 4-Bike alta_demanda_bajo_stock"
+  },
+  "51": {
+    "id_original": 885,
+    "nombre": "Hl Touring Frame - Yellow, 60",
+    "texto_procesado": "componente touring frames Hl Touring Frame - Yellow, 60 color amarillo talla 60 alta_demanda_bajo_stock"
+  },
+  "52": {
+    "id_original": 983,
+    "nombre": "Mountain-400-W Silver, 46",
+    "texto_procesado": "bicicleta de montaña Mountain-400-W Silver, 46 color plateado talla 46 estrella"
+  },
+  "53": {
+    "id_original": 838,
+    "nombre": "Hl Road Frame - Black, 44",
+    "texto_procesado": "componente road frames Hl Road Frame - Black, 44 color negro talla 44 alta_demanda_bajo_stock"
+  },
+  "54": {
+    "id_original": 893,
+    "nombre": "Hl Touring Frame - Blue, 60",
+    "texto_procesado": "componente touring frames Hl Touring Frame - Blue, 60 color azul talla 60 alta_demanda_bajo_stock"
+  },
+  "55": {
+    "id_original": 718,
+    "nombre": "Hl Road Frame - Red, 44",
+    "texto_procesado": "componente road frames Hl Road Frame - Red, 44 color rojo talla 44 alta_demanda_bajo_stock"
+  },
+  "56": {
+    "id_original": 717,
+    "nombre": "Hl Road Frame - Red, 62",
+    "texto_procesado": "componente road frames Hl Road Frame - Red, 62 color rojo talla 62 alta_demanda_bajo_stock"
+  },
+  "57": {
+    "id_original": 982,
+    "nombre": "Mountain-400-W Silver, 42",
+    "texto_procesado": "bicicleta de montaña Mountain-400-W Silver, 42 color plateado talla 42 estrella"
+  },
+  "58": {
+    "id_original": 959,
+    "nombre": "Touring-3000 Blue, 58",
+    "texto_procesado": "bicicleta de turismo Touring-3000 Blue, 58 color azul talla 58 estrella"
+  },
+  "59": {
+    "id_original": 963,
+    "nombre": "Touring-3000 Yellow, 54",
+    "texto_procesado": "bicicleta de turismo Touring-3000 Yellow, 54 color amarillo talla 54 estrella"
+  },
+  "60": {
+    "id_original": 904,
+    "nombre": "Ml Mountain Frame-W - Silver, 40",
+    "texto_procesado": "componente mountain frames Ml Mountain Frame-W - Silver, 40 color plateado talla 40 alta_demanda_bajo_stock"
+  },
+  "61": {
+    "id_original": 822,
+    "nombre": "Ml Road Frame-W - Yellow, 38",
+    "texto_procesado": "componente road frames Ml Road Frame-W - Yellow, 38 color amarillo talla 38 estrella"
+  },
+  "62": {
+    "id_original": 836,
+    "nombre": "Ml Road Frame-W - Yellow, 48",
+    "texto_procesado": "componente road frames Ml Road Frame-W - Yellow, 48 color amarillo talla 48 alta_demanda_bajo_stock"
+  },
+  "63": {
+    "id_original": 988,
+    "nombre": "Mountain-500 Silver, 52",
+    "texto_procesado": "bicicleta de montaña Mountain-500 Silver, 52 color plateado talla 52 estrella"
+  },
+  "64": {
+    "id_original": 992,
+    "nombre": "Mountain-500 Black, 48",
+    "texto_procesado": "bicicleta de montaña Mountain-500 Black, 48 color negro talla 48 estrella"
+  },
+  "65": {
+    "id_original": 864,
+    "nombre": "Classic Vest, S",
+    "texto_procesado": "ropa vests Classic Vest, S color azul talla S estrella"
+  },
+  "66": {
+    "id_original": 738,
+    "nombre": "Ll Road Frame - Black, 52",
+    "texto_procesado": "componente road frames Ll Road Frame - Black, 52 color negro talla 52 alta_demanda_bajo_stock"
+  },
+  "67": {
+    "id_original": 951,
+    "nombre": "Hl Crankset",
+    "texto_procesado": "componente cranksets Hl Crankset color negro estrella"
+  },
+  "68": {
+    "id_original": 739,
+    "nombre": "Hl Mountain Frame - Silver, 42",
+    "texto_procesado": "componente mountain frames Hl Mountain Frame - Silver, 42 color plateado talla 42 normal"
+  },
+  "69": {
+    "id_original": 984,
+    "nombre": "Mountain-500 Silver, 40",
+    "texto_procesado": "bicicleta de montaña Mountain-500 Silver, 40 color plateado talla 40 estrella"
+  },
+  "70": {
+    "id_original": 987,
+    "nombre": "Mountain-500 Silver, 48",
+    "texto_procesado": "bicicleta de montaña Mountain-500 Silver, 48 color plateado talla 48 estrella"
+  },
+  "71": {
+    "id_original": 985,
+    "nombre": "Mountain-500 Silver, 42",
+    "texto_procesado": "bicicleta de montaña Mountain-500 Silver, 42 color plateado talla 42 estrella"
+  },
+  "72": {
+    "id_original": 867,
+    "nombre": "Women'S Mountain Shorts, S",
+    "texto_procesado": "ropa shorts Women'S Mountain Shorts, S color negro talla S estrella"
+  },
+  "73": {
+    "id_original": 905,
+    "nombre": "Ml Mountain Frame-W - Silver, 42",
+    "texto_procesado": "componente mountain frames Ml Mountain Frame-W - Silver, 42 color plateado talla 42 alta_demanda_bajo_stock"
+  },
+  "74": {
+    "id_original": 869,
+    "nombre": "Women'S Mountain Shorts, L",
+    "texto_procesado": "ropa shorts Women'S Mountain Shorts, L color negro talla L estrella"
+  },
+  "75": {
+    "id_original": 990,
+    "nombre": "Mountain-500 Black, 42",
+    "texto_procesado": "bicicleta de montaña Mountain-500 Black, 42 color negro talla 42 estrella"
+  },
+  "76": {
+    "id_original": 960,
+    "nombre": "Touring-3000 Blue, 62",
+    "texto_procesado": "bicicleta de turismo Touring-3000 Blue, 62 color azul talla 62 estrella"
+  },
+  "77": {
+    "id_original": 978,
+    "nombre": "Touring-3000 Blue, 44",
+    "texto_procesado": "bicicleta de turismo Touring-3000 Blue, 44 color azul talla 44 estrella"
+  },
+  "78": {
+    "id_original": 964,
+    "nombre": "Touring-3000 Yellow, 58",
+    "texto_procesado": "bicicleta de turismo Touring-3000 Yellow, 58 color amarillo talla 58 estrella"
+  },
+  "79": {
+    "id_original": 884,
+    "nombre": "Short-Sleeve Classic Jersey, Xl",
+    "texto_procesado": "ropa jersey Short-Sleeve Classic Jersey, Xl color amarillo talla XL alta_demanda_bajo_stock"
+  },
+  "80": {
+    "id_original": 711,
+    "nombre": "Sport-100 Helmet, Blue",
+    "texto_procesado": "accesorio casco Sport-100 Helmet, Blue color azul estrella"
+  },
+  "81": {
+    "id_original": 708,
+    "nombre": "Sport-100 Helmet, Black",
+    "texto_procesado": "accesorio casco Sport-100 Helmet, Black color negro estrella"
+  },
+  "82": {
+    "id_original": 707,
+    "nombre": "Sport-100 Helmet, Red",
+    "texto_procesado": "accesorio casco Sport-100 Helmet, Red color rojo estrella"
+  },
+  "83": {
+    "id_original": 991,
+    "nombre": "Mountain-500 Black, 44",
+    "texto_procesado": "bicicleta de montaña Mountain-500 Black, 44 color negro talla 44 estrella"
+  },
+  "84": {
+    "id_original": 715,
+    "nombre": "Long-Sleeve Logo Jersey, L",
+    "texto_procesado": "ropa jersey Long-Sleeve Logo Jersey, L color multi talla L estrella"
+  },
+  "85": {
+    "id_original": 986,
+    "nombre": "Mountain-500 Silver, 44",
+    "texto_procesado": "bicicleta de montaña Mountain-500 Silver, 44 color plateado talla 44 estrella"
+  },
+  "86": {
+    "id_original": 880,
+    "nombre": "Hydration Pack - 70 Oz.",
+    "texto_procesado": "accesorio hydration packs Hydration Pack - 70 Oz. color plateado talla 70 estrella"
+  },
+  "87": {
+    "id_original": 989,
+    "nombre": "Mountain-500 Black, 40",
+    "texto_procesado": "bicicleta de montaña Mountain-500 Black, 40 color negro talla 40 estrella"
+  },
+  "88": {
+    "id_original": 917,
+    "nombre": "Ll Mountain Frame - Silver, 42",
+    "texto_procesado": "componente mountain frames Ll Mountain Frame - Silver, 42 color plateado talla 42 alta_demanda_bajo_stock"
+  },
+  "89": {
+    "id_original": 883,
+    "nombre": "Short-Sleeve Classic Jersey, L",
+    "texto_procesado": "ropa jersey Short-Sleeve Classic Jersey, L color amarillo talla L alta_demanda_bajo_stock"
+  },
+  "90": {
+    "id_original": 993,
+    "nombre": "Mountain-500 Black, 52",
+    "texto_procesado": "bicicleta de montaña Mountain-500 Black, 52 color negro talla 52 estrella"
+  },
+  "91": {
+    "id_original": 925,
+    "nombre": "Ll Mountain Frame - Black, 44",
+    "texto_procesado": "componente mountain frames Ll Mountain Frame - Black, 44 color negro talla 44 alta_demanda_bajo_stock"
+  },
+  "92": {
+    "id_original": 865,
+    "nombre": "Classic Vest, M",
+    "texto_procesado": "ropa vests Classic Vest, M color azul talla M estrella"
+  },
+  "93": {
+    "id_original": 722,
+    "nombre": "Ll Road Frame - Black, 58",
+    "texto_procesado": "componente road frames Ll Road Frame - Black, 58 color negro talla 58 alta_demanda_bajo_stock"
+  },
+  "94": {
+    "id_original": 714,
+    "nombre": "Long-Sleeve Logo Jersey, M",
+    "texto_procesado": "ropa jersey Long-Sleeve Logo Jersey, M color multi talla M estrella"
+  },
+  "95": {
+    "id_original": 891,
+    "nombre": "Hl Touring Frame - Blue, 50",
+    "texto_procesado": "componente touring frames Hl Touring Frame - Blue, 50 color azul talla 50 normal"
+  },
+  "96": {
+    "id_original": 881,
+    "nombre": "Short-Sleeve Classic Jersey, S",
+    "texto_procesado": "ropa jersey Short-Sleeve Classic Jersey, S color amarillo talla S estrella"
+  },
+  "97": {
+    "id_original": 944,
+    "nombre": "Ll Mountain Frame - Silver, 40",
+    "texto_procesado": "componente mountain frames Ll Mountain Frame - Silver, 40 color plateado talla 40 estrella"
+  },
+  "98": {
+    "id_original": 886,
+    "nombre": "Ll Touring Frame - Yellow, 62",
+    "texto_procesado": "componente touring frames Ll Touring Frame - Yellow, 62 color amarillo talla 62 alta_demanda_bajo_stock"
+  },
+  "99": {
+    "id_original": 890,
+    "nombre": "Hl Touring Frame - Blue, 46",
+    "texto_procesado": "componente touring frames Hl Touring Frame - Blue, 46 color azul talla 46 normal"
+  },
+  "100": {
+    "id_original": 920,
+    "nombre": "Ll Mountain Frame - Silver, 52",
+    "texto_procesado": "componente mountain frames Ll Mountain Frame - Silver, 52 color plateado talla 52 alta_demanda_bajo_stock"
+  },
+  "101": {
+    "id_original": 924,
+    "nombre": "Ll Mountain Frame - Black, 42",
+    "texto_procesado": "componente mountain frames Ll Mountain Frame - Black, 42 color negro talla 42 alta_demanda_bajo_stock"
+  },
+  "102": {
+    "id_original": 895,
+    "nombre": "Ll Touring Frame - Blue, 50",
+    "texto_procesado": "componente touring frames Ll Touring Frame - Blue, 50 color azul talla 50 alta_demanda_bajo_stock"
+  },
+  "103": {
+    "id_original": 918,
+    "nombre": "Ll Mountain Frame - Silver, 44",
+    "texto_procesado": "componente mountain frames Ll Mountain Frame - Silver, 44 color plateado talla 44 alta_demanda_bajo_stock"
+  },
+  "104": {
+    "id_original": 899,
+    "nombre": "Ll Touring Frame - Yellow, 44",
+    "texto_procesado": "componente touring frames Ll Touring Frame - Yellow, 44 color amarillo talla 44 alta_demanda_bajo_stock"
+  },
+  "105": {
+    "id_original": 716,
+    "nombre": "Long-Sleeve Logo Jersey, Xl",
+    "texto_procesado": "ropa jersey Long-Sleeve Logo Jersey, Xl color multi talla XL estrella"
+  },
+  "106": {
+    "id_original": 926,
+    "nombre": "Ll Mountain Frame - Black, 48",
+    "texto_procesado": "componente mountain frames Ll Mountain Frame - Black, 48 color negro talla 48 alta_demanda_bajo_stock"
+  },
+  "107": {
+    "id_original": 868,
+    "nombre": "Women'S Mountain Shorts, M",
+    "texto_procesado": "ropa shorts Women'S Mountain Shorts, M color negro talla M estrella"
+  },
+  "108": {
+    "id_original": 887,
+    "nombre": "Hl Touring Frame - Yellow, 46",
+    "texto_procesado": "componente touring frames Hl Touring Frame - Yellow, 46 color amarillo talla 46 normal"
+  },
+  "109": {
+    "id_original": 839,
+    "nombre": "Hl Road Frame - Black, 48",
+    "texto_procesado": "componente road frames Hl Road Frame - Black, 48 color negro talla 48 normal"
+  },
+  "110": {
+    "id_original": 719,
+    "nombre": "Hl Road Frame - Red, 48",
+    "texto_procesado": "componente road frames Hl Road Frame - Red, 48 color rojo talla 48 normal"
+  },
+  "111": {
+    "id_original": 948,
+    "nombre": "Front Brakes",
+    "texto_procesado": "componente brakes Front Brakes color plateado estrella"
+  },
+  "112": {
+    "id_original": 888,
+    "nombre": "Hl Touring Frame - Yellow, 50",
+    "texto_procesado": "componente touring frames Hl Touring Frame - Yellow, 50 color amarillo talla 50 normal"
+  },
+  "113": {
+    "id_original": 930,
+    "nombre": "Hl Mountain Tire",
+    "texto_procesado": "accesorio tires and tubes Hl Mountain Tire estrella"
+  },
+  "114": {
+    "id_original": 878,
+    "nombre": "Fender Set - Mountain",
+    "texto_procesado": "accesorio fenders Fender Set - Mountain estrella"
+  },
+  "115": {
+    "id_original": 900,
+    "nombre": "Ll Touring Frame - Yellow, 50",
+    "texto_procesado": "componente touring frames Ll Touring Frame - Yellow, 50 color amarillo talla 50 alta_demanda_bajo_stock"
+  },
+  "116": {
+    "id_original": 859,
+    "nombre": "Half-Finger Gloves, M",
+    "texto_procesado": "ropa guantes Half-Finger Gloves, M color negro talla M alta_demanda_bajo_stock"
+  },
+  "117": {
+    "id_original": 949,
+    "nombre": "Ll Crankset",
+    "texto_procesado": "componente cranksets Ll Crankset color negro estrella"
+  },
+  "118": {
+    "id_original": 945,
+    "nombre": "Front Derailleur",
+    "texto_procesado": "componente derailleurs Front Derailleur color plateado estrella"
+  },
+  "119": {
+    "id_original": 896,
+    "nombre": "Ll Touring Frame - Blue, 54",
+    "texto_procesado": "componente touring frames Ll Touring Frame - Blue, 54 color azul talla 54 normal"
+  },
+  "120": {
+    "id_original": 906,
+    "nombre": "Ml Mountain Frame-W - Silver, 46",
+    "texto_procesado": "componente mountain frames Ml Mountain Frame-W - Silver, 46 color plateado talla 46 normal"
+  },
+  "121": {
+    "id_original": 879,
+    "nombre": "All-Purpose Bike Stand",
+    "texto_procesado": "accesorio bike stands All-Purpose Bike Stand estrella"
+  },
+  "122": {
+    "id_original": 996,
+    "nombre": "Hl Bottom Bracket",
+    "texto_procesado": "componente bottom brackets Hl Bottom Bracket estrella"
+  },
+  "123": {
+    "id_original": 937,
+    "nombre": "Hl Mountain Pedal",
+    "texto_procesado": "componente pedals Hl Mountain Pedal color silver/black estrella"
+  },
+  "124": {
+    "id_original": 712,
+    "nombre": "Awc Logo Cap",
+    "texto_procesado": "ropa caps Awc Logo Cap color multi estrella"
+  },
+  "125": {
+    "id_original": 929,
+    "nombre": "Ml Mountain Tire",
+    "texto_procesado": "accesorio tires and tubes Ml Mountain Tire estrella"
+  },
+  "126": {
+    "id_original": 809,
+    "nombre": "Ml Mountain Handlebars",
+    "texto_procesado": "componente handlebars Ml Mountain Handlebars estrella"
+  },
+  "127": {
+    "id_original": 833,
+    "nombre": "Ml Road Frame-W - Yellow, 40",
+    "texto_procesado": "componente road frames Ml Road Frame-W - Yellow, 40 color amarillo talla 40 normal"
+  },
+  "128": {
+    "id_original": 940,
+    "nombre": "Hl Road Pedal",
+    "texto_procesado": "componente pedals Hl Road Pedal color silver/black estrella"
+  },
+  "129": {
+    "id_original": 858,
+    "nombre": "Half-Finger Gloves, S",
+    "texto_procesado": "ropa guantes Half-Finger Gloves, S color negro talla S estrella"
+  },
+  "130": {
+    "id_original": 870,
+    "nombre": "Water Bottle - 30 Oz.",
+    "texto_procesado": "accesorio bottles and cages Water Bottle - 30 Oz. estrella"
+  },
+  "131": {
+    "id_original": 933,
+    "nombre": "Hl Road Tire",
+    "texto_procesado": "accesorio tires and tubes Hl Road Tire estrella"
+  },
+  "132": {
+    "id_original": 934,
+    "nombre": "Touring Tire",
+    "texto_procesado": "accesorio tires and tubes Touring Tire estrella"
+  },
+  "133": {
+    "id_original": 813,
+    "nombre": "Hl Road Handlebars",
+    "texto_procesado": "componente handlebars Hl Road Handlebars estrella"
+  },
+  "134": {
+    "id_original": 894,
+    "nombre": "Rear Derailleur",
+    "texto_procesado": "componente derailleurs Rear Derailleur color plateado estrella"
+  },
+  "135": {
+    "id_original": 939,
+    "nombre": "Ml Road Pedal",
+    "texto_procesado": "componente pedals Ml Road Pedal color silver/black estrella"
+  },
+  "136": {
+    "id_original": 932,
+    "nombre": "Ml Road Tire",
+    "texto_procesado": "accesorio tires and tubes Ml Road Tire estrella"
+  },
+  "137": {
+    "id_original": 931,
+    "nombre": "Ll Road Tire",
+    "texto_procesado": "accesorio tires and tubes Ll Road Tire estrella"
+  },
+  "138": {
+    "id_original": 736,
+    "nombre": "Ll Road Frame - Black, 44",
+    "texto_procesado": "componente road frames Ll Road Frame - Black, 44 color negro talla 44 normal"
+  },
+  "139": {
+    "id_original": 882,
+    "nombre": "Short-Sleeve Classic Jersey, M",
+    "texto_procesado": "ropa jersey Short-Sleeve Classic Jersey, M color amarillo talla M alta_demanda_bajo_stock"
+  },
+  "140": {
+    "id_original": 810,
+    "nombre": "Hl Mountain Handlebars",
+    "texto_procesado": "componente handlebars Hl Mountain Handlebars estrella"
+  },
+  "141": {
+    "id_original": 928,
+    "nombre": "Ll Mountain Tire",
+    "texto_procesado": "accesorio tires and tubes Ll Mountain Tire estrella"
+  },
+  "142": {
+    "id_original": 713,
+    "nombre": "Long-Sleeve Logo Jersey, S",
+    "texto_procesado": "ropa jersey Long-Sleeve Logo Jersey, S color multi talla S estrella"
+  },
+  "143": {
+    "id_original": 938,
+    "nombre": "Ll Road Pedal",
+    "texto_procesado": "componente pedals Ll Road Pedal color silver/black estrella"
+  },
+  "144": {
+    "id_original": 860,
+    "nombre": "Half-Finger Gloves, L",
+    "texto_procesado": "ropa guantes Half-Finger Gloves, L color negro talla L alta_demanda_bajo_stock"
+  },
+  "145": {
+    "id_original": 871,
+    "nombre": "Mountain Bottle Cage",
+    "texto_procesado": "accesorio bottles and cages Mountain Bottle Cage estrella"
+  },
+  "146": {
+    "id_original": 877,
+    "nombre": "Bike Wash - Dissolver",
+    "texto_procesado": "accesorio cleaners Bike Wash - Dissolver alta_demanda_bajo_stock"
+  },
+  "147": {
+    "id_original": 910,
+    "nombre": "Hl Mountain Seat/Saddle",
+    "texto_procesado": "componente saddles Hl Mountain Seat/Saddle estrella"
+  },
+  "148": {
+    "id_original": 907,
+    "nombre": "Rear Brakes",
+    "texto_procesado": "componente brakes Rear Brakes color plateado estrella"
+  },
+  "149": {
+    "id_original": 921,
+    "nombre": "Mountain Tire Tube",
+    "texto_procesado": "accesorio tires and tubes Mountain Tire Tube estrella"
+  },
+  "150": {
+    "id_original": 872,
+    "nombre": "Road Bottle Cage",
+    "texto_procesado": "accesorio bottles and cages Road Bottle Cage estrella"
+  },
+  "151": {
+    "id_original": 808,
+    "nombre": "Ll Mountain Handlebars",
+    "texto_procesado": "componente handlebars Ll Mountain Handlebars estrella"
+  },
+  "152": {
+    "id_original": 875,
+    "nombre": "Racing Socks, L",
+    "texto_procesado": "ropa socks Racing Socks, L color blanco talla L estrella"
+  },
+  "153": {
+    "id_original": 916,
+    "nombre": "Hl Touring Seat/Saddle",
+    "texto_procesado": "componente saddles Hl Touring Seat/Saddle estrella"
+  },
+  "154": {
+    "id_original": 936,
+    "nombre": "Ml Mountain Pedal",
+    "texto_procesado": "componente pedals Ml Mountain Pedal color silver/black estrella"
+  },
+  "155": {
+    "id_original": 866,
+    "nombre": "Classic Vest, L",
+    "texto_procesado": "ropa vests Classic Vest, L color azul talla L estrella"
+  },
+  "156": {
+    "id_original": 909,
+    "nombre": "Ml Mountain Seat/Saddle",
+    "texto_procesado": "componente saddles Ml Mountain Seat/Saddle estrella"
+  },
+  "157": {
+    "id_original": 723,
+    "nombre": "Ll Road Frame - Black, 60",
+    "texto_procesado": "componente road frames Ll Road Frame - Black, 60 color negro talla 60 normal"
+  },
+  "158": {
+    "id_original": 994,
+    "nombre": "Ll Bottom Bracket",
+    "texto_procesado": "componente bottom brackets Ll Bottom Bracket estrella"
+  },
+  "159": {
+    "id_original": 947,
+    "nombre": "Hl Touring Handlebars",
+    "texto_procesado": "componente handlebars Hl Touring Handlebars estrella"
+  },
+  "160": {
+    "id_original": 935,
+    "nombre": "Ll Mountain Pedal",
+    "texto_procesado": "componente pedals Ll Mountain Pedal color silver/black estrella"
+  },
+  "161": {
+    "id_original": 950,
+    "nombre": "Ml Crankset",
+    "texto_procesado": "componente cranksets Ml Crankset color negro sobrestockeado"
+  },
+  "162": {
+    "id_original": 922,
+    "nombre": "Road Tire Tube",
+    "texto_procesado": "accesorio tires and tubes Road Tire Tube estrella"
+  },
+  "163": {
+    "id_original": 874,
+    "nombre": "Racing Socks, M",
+    "texto_procesado": "ropa socks Racing Socks, M color blanco talla M estrella"
+  },
+  "164": {
+    "id_original": 952,
+    "nombre": "Chain",
+    "texto_procesado": "componente chains Chain color plateado estrella"
+  },
+  "165": {
+    "id_original": 873,
+    "nombre": "Patch Kit/8 Patches",
+    "texto_procesado": "accesorio tires and tubes Patch Kit/8 Patches estrella"
+  },
+  "166": {
+    "id_original": 923,
+    "nombre": "Touring Tire Tube",
+    "texto_procesado": "accesorio tires and tubes Touring Tire Tube estrella"
+  },
+  "167": {
+    "id_original": 902,
+    "nombre": "Ll Touring Frame - Yellow, 58",
+    "texto_procesado": "componente touring frames Ll Touring Frame - Yellow, 58 color amarillo talla 58 normal"
+  },
+  "168": {
+    "id_original": 941,
+    "nombre": "Touring Pedal",
+    "texto_procesado": "componente pedals Touring Pedal color silver/black normal"
+  },
+  "169": {
+    "id_original": 919,
+    "nombre": "Ll Mountain Frame - Silver, 48",
+    "texto_procesado": "componente mountain frames Ll Mountain Frame - Silver, 48 color plateado talla 48 normal"
+  },
+  "170": {
+    "id_original": 908,
+    "nombre": "Ll Mountain Seat/Saddle",
+    "texto_procesado": "componente saddles Ll Mountain Seat/Saddle estrella"
+  },
+  "171": {
+    "id_original": 903,
+    "nombre": "Ll Touring Frame - Blue, 44",
+    "texto_procesado": "componente touring frames Ll Touring Frame - Blue, 44 color azul talla 44 normal"
+  },
+  "172": {
+    "id_original": 913,
+    "nombre": "Hl Road Seat/Saddle",
+    "texto_procesado": "componente saddles Hl Road Seat/Saddle normal"
+  },
+  "173": {
+    "id_original": 898,
+    "nombre": "Ll Touring Frame - Blue, 62",
+    "texto_procesado": "componente touring frames Ll Touring Frame - Blue, 62 color azul talla 62 normal"
+  },
+  "174": {
+    "id_original": 811,
+    "nombre": "Ll Road Handlebars",
+    "texto_procesado": "componente handlebars Ll Road Handlebars normal"
+  },
+  "175": {
+    "id_original": 927,
+    "nombre": "Ll Mountain Frame - Black, 52",
+    "texto_procesado": "componente mountain frames Ll Mountain Frame - Black, 52 color negro talla 52 normal"
+  },
+  "176": {
+    "id_original": 915,
+    "nombre": "Ml Touring Seat/Saddle",
+    "texto_procesado": "componente saddles Ml Touring Seat/Saddle sobrestockeado"
+  },
+  "177": {
+    "id_original": 946,
+    "nombre": "Ll Touring Handlebars",
+    "texto_procesado": "componente handlebars Ll Touring Handlebars sobrestockeado"
+  },
+  "178": {
+    "id_original": 942,
+    "nombre": "Ml Mountain Frame-W - Silver, 38",
+    "texto_procesado": "componente mountain frames Ml Mountain Frame-W - Silver, 38 color plateado talla 38 sobrestockeado"
+  },
+  "179": {
+    "id_original": 914,
+    "nombre": "Ll Touring Seat/Saddle",
+    "texto_procesado": "componente saddles Ll Touring Seat/Saddle sobrestockeado"
+  },
+  "180": {
+    "id_original": 943,
+    "nombre": "Ll Mountain Frame - Black, 40",
+    "texto_procesado": "componente mountain frames Ll Mountain Frame - Black, 40 color negro talla 40 sobrestockeado"
+  },
+  "181": {
+    "id_original": 897,
+    "nombre": "Ll Touring Frame - Blue, 58",
+    "texto_procesado": "componente touring frames Ll Touring Frame - Blue, 58 color azul talla 58 normal"
+  },
+  "182": {
+    "id_original": 911,
+    "nombre": "Ll Road Seat/Saddle",
+    "texto_procesado": "componente saddles Ll Road Seat/Saddle sobrestockeado"
+  },
+  "183": {
+    "id_original": 912,
+    "nombre": "Ml Road Seat/Saddle",
+    "texto_procesado": "componente saddles Ml Road Seat/Saddle sobrestockeado"
+  },
+  "184": {
+    "id_original": 812,
+    "nombre": "Ml Road Handlebars",
+    "texto_procesado": "componente handlebars Ml Road Handlebars sobrestockeado"
+  },
+  "185": {
+    "id_original": 995,
+    "nombre": "Ml Bottom Bracket",
+    "texto_procesado": "componente bottom brackets Ml Bottom Bracket sobrestockeado"
+  },
+  "186": {
+    "id_original": 680,
+    "nombre": "Hl Road Frame - Black, 58",
+    "texto_procesado": "componente road frames Hl Road Frame - Black, 58 color negro talla 58 sin_ventas"
+  },
+  "187": {
+    "id_original": 706,
+    "nombre": "Hl Road Frame - Red, 58",
+    "texto_procesado": "componente road frames Hl Road Frame - Red, 58 color rojo talla 58 sin_ventas"
+  },
+  "188": {
+    "id_original": 834,
+    "nombre": "Ml Road Frame-W - Yellow, 42",
+    "texto_procesado": "componente road frames Ml Road Frame-W - Yellow, 42 color amarillo talla 42 sin_ventas"
+  },
+  "189": {
+    "id_original": 840,
+    "nombre": "Hl Road Frame - Black, 52",
+    "texto_procesado": "componente road frames Hl Road Frame - Black, 52 color negro talla 52 sin_ventas"
+  },
+  "190": {
+    "id_original": 837,
+    "nombre": "Hl Road Frame - Black, 62",
+    "texto_procesado": "componente road frames Hl Road Frame - Black, 62 color negro talla 62 sin_ventas"
+  },
+  "191": {
+    "id_original": 724,
+    "nombre": "Ll Road Frame - Black, 62",
+    "texto_procesado": "componente road frames Ll Road Frame - Black, 62 color negro talla 62 sin_ventas"
+  },
+  "192": {
+    "id_original": 737,
+    "nombre": "Ll Road Frame - Black, 48",
+    "texto_procesado": "componente road frames Ll Road Frame - Black, 48 color negro talla 48 sin_ventas"
+  },
+  "193": {
+    "id_original": 720,
+    "nombre": "Hl Road Frame - Red, 52",
+    "texto_procesado": "componente road frames Hl Road Frame - Red, 52 color rojo talla 52 sin_ventas"
+  },
+  "194": {
+    "id_original": 721,
+    "nombre": "Hl Road Frame - Red, 56",
+    "texto_procesado": "componente road frames Hl Road Frame - Red, 56 color rojo talla 56 sin_ventas"
+  },
+  "195": {
+    "id_original": 746,
+    "nombre": "Hl Mountain Frame - Black, 46",
+    "texto_procesado": "componente mountain frames Hl Mountain Frame - Black, 46 color negro talla 46 sin_ventas"
+  },
+  "196": {
+    "id_original": 901,
+    "nombre": "Ll Touring Frame - Yellow, 54",
+    "texto_procesado": "componente touring frames Ll Touring Frame - Yellow, 54 color amarillo talla 54 sin_ventas"
+  }
+}
