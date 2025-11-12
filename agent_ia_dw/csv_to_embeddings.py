@@ -21,10 +21,8 @@ from typing import List, Dict, Tuple
 from datetime import datetime
 import logging
 
-# ============================================================================
-# CONFIGURACIÓN
-# ============================================================================
 
+# CONFIGURACIÓN
 class Config:
     """Configuración centralizada"""
     BASE_PATH = Path("datasets")
@@ -47,10 +45,8 @@ class Config:
         cls.PROCESSED_PATH.mkdir(exist_ok=True)
         cls.EMBEDDINGS_PATH.mkdir(exist_ok=True)
 
-# ============================================================================
-# PREPROCESAMIENTO
-# ============================================================================
 
+# PREPROCESAMIENTO
 class DataProcessor:
     def __init__(self):
         self.logger = self._setup_logger()
@@ -144,10 +140,8 @@ class DataProcessor:
         self.logger.info(f"✅ Parquet guardado: {output_file}")
         return df
 
-# ============================================================================
-# GENERACIÓN DE EMBEDDINGS - VERSIÓN CORREGIDA
-# ============================================================================
 
+# GENERACIÓN DE EMBEDDINGS
 class EmbeddingGenerator:
     """CRÍTICO: Genera embeddings compatibles con búsqueda en lenguaje natural"""
     
@@ -303,10 +297,8 @@ class EmbeddingGenerator:
         
         self.logger.info(f"💾 Embeddings guardados: {emb_file}")
 
-# ============================================================================
-# ALMACENAMIENTO FAISS + REDIS - VERSIÓN CORREGIDA
-# ============================================================================
 
+# ALMACENAMIENTO FAISS + REDIS
 class VectorStore:
     """CRÍTICO: Almacena metadata completa en Redis"""
     
@@ -422,10 +414,8 @@ class VectorStore:
         self.logger.info(f"✅ {len(df)} productos indexados en Redis")
         self.logger.info(f"📄 Mapeo guardado en: {mapeo_file}")
 
-# ============================================================================
-# PIPELINE COMPLETO - VERSIÓN CORREGIDA
-# ============================================================================
 
+# PIPELINE 
 def ejecutar_pipeline_completo():
     """Pipeline corregido con validaciones"""
     
